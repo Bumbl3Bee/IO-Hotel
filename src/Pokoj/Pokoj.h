@@ -5,6 +5,8 @@ private:
 	int numer;
 	int status;
 	string wyposazenie;
+protected:
 	int id;
+private:
 	double cena;
 };

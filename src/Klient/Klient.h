@@ -6,5 +6,6 @@ private:
 	int telefon;
 	string adres;
 	string dowod;
+protected:
 	int id;
 };
